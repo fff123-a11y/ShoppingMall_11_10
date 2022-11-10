@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Shopping-mall.iml" filepath="$PROJECT_DIR$/.idea/Shopping-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single-mall/mall-admin/mall-admin.iml" filepath="$PROJECT_DIR$/single-mall/mall-admin/mall-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single-mall/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/single-mall/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single-mall/mall-mbg/mall-mbg.iml" filepath="$PROJECT_DIR$/single-mall/mall-mbg/mall-mbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single-mall/mall-portal/mall-portal.iml" filepath="$PROJECT_DIR$/single-mall/mall-portal/mall-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single-mall/mall-search/mall-search.iml" filepath="$PROJECT_DIR$/single-mall/mall-search/mall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single-mall/mall-security/mall-security.iml" filepath="$PROJECT_DIR$/single-mall/mall-security/mall-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single-mall/single-mall.iml" filepath="$PROJECT_DIR$/single-mall/single-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
